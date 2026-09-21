@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+venv/
+env/
+
+# Temporary files
+~$*
+*.tmp
+
+# Personal files
+*raw_survey*
+*original_data*
+*email*
